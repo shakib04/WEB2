@@ -1,0 +1,5 @@
+1. go to gitub and login
+2. create a new repository 
+3. must be public, description optional 
+4. git bash command > git init, git status, git add ., git commit -m "fi"
+5. github setting> source > master-branch 
